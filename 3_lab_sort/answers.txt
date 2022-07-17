@@ -1,0 +1,51 @@
+sort1 uses: Bubble Sort
+
+
+How do you know?: 
+
+random5000:    0.081 - 0.143
+sorted5000:    0.009 - 0.012
+reversed5000:  0.057 - 0.100
+
+random10000:   0.620
+sorted10000:   0.022 - 0.088
+reversed10000: 0.36 - 0.871
+
+ramdom50000:   19.121
+sorted50000:   2.468 - 5.23
+reversed50000: 13.591 - 15.527 
+
+
+sort2 uses: Merge Sort
+
+How do you know?: 
+
+random5000:    0.018
+sorded5000:    0.010 - 0.026
+reversed5000:  0.011 - 0.013
+
+random10000:   0.029 - 0.088
+sorted10000:   0.018 - 0.022
+reversed10000: 0.026 - 0.078
+
+ramdom50000:   9.121 - 10.676
+sorted50000:   4.534 - 5.6
+reversed50000: 5.16 - 7.496
+
+sort3 uses: Selection Sort 
+
+How do you know?: 
+
+random5000:    0.081 - 0.143
+sorted5000:    0.033
+reversed5000:  0.033 - 0.065
+
+random10000:   0.620
+sorted10000:   0.166 - 0.231
+reversed10000: 0.196 - 0.218
+
+ramdom50000:   10.7 - 17.8
+sorted50000:   8.674 - 10.081
+reversed50000; 6.996 7.814
+
+The 
